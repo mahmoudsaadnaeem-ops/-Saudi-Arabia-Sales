@@ -3,11 +3,7 @@ A simple sales dashboard built to analyze sales performance. It shows total sale
 
 ### استعراض لوحات البيانات (Dashboards)
 
-![التحليل الأول](sales_1.png)
 
-![التحليل الثاني](sales_2.png)
-
-![التحليل الثالث](sales_3.png)
 <img src="sales_1.png" width="600">
 
 <img src="sales_2.png" width="600">
