@@ -24,6 +24,7 @@ Geographic distribution of sales across major cities
 
 Key performance indicators such as total sales, average sales, and number of transactions
 
+
 ### استعراض لوحات البيانات (Dashboards)
 
 
